@@ -16,7 +16,12 @@ pathway enrichment, MetSEA, and relative betweenness centrality (RBC).
 You can install the development version of enrichmet like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+install.packages("remotes")
+remotes::install_git("https://github.com/biodatalab/enrichmet_R_package.git")
+or 
+install.packages("devtools")
+devtools::install_git("https://github.com/biodatalab/enrichmet_R_package.git")
+
 ```
 
 ## Example
