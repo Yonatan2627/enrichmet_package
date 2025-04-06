@@ -117,3 +117,4 @@ enrichmet(inputMetabolites, PathwayVsMetabolites, example_data, top_n = 20)
 <img src="man/figures/README-example-3.png" width="100%" />
 # enrichmet
 # enrichmet_package
+# enrichmet
